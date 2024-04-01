@@ -1,2 +1,8 @@
-# Data_Science_Jobs_Salaries_Dashboard_Using_Tableau
-Tableau Desktop | CSV | Data Visualization | Analytics
+# Data Science Jobs Salaries Dashboard
+> depending on the location, experience level, employment type, and job role.
+
+[All]
+All Countries.png
+
+[US]
+US Only.png
